@@ -53,5 +53,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "testdouble": "^3.13.0"
   }
 }
